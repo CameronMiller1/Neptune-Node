@@ -1,5 +1,5 @@
 # Neptune-Node
-An embedded project using Zephyr OS with the E220-900T22D LoRa module for long range data transmission and monitoring.
+An embedded project using Zephyr OS with the E220-900T22D LoRa module for long range, low power data transmission and monitoring.
 
 ### E2202-900T22D TO MCU PIN MAP
 <table>
