@@ -21,12 +21,12 @@ An embedded project using Zephyr OS with the E220-900T22D LoRa module for long r
         <tr>
             <td>RXD</td>
             <td>UART RX</td>
-            <td>PB6</td>
+            <td>PA2</td>
         </tr>
         <tr>
             <td>TXD</td>
             <td>UART TX</td>
-            <td>PB7</td>
+            <td>PA3</td>
         </tr>
         <tr>
             <td>AUX</td>
