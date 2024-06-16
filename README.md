@@ -11,12 +11,12 @@ An embedded project using Zephyr OS with the E220-900T22D LoRa module for long r
         <tr>
             <td>M0</td>
             <td>GPIO</td>
-            <td>PC15</td>
+            <td>PA6</td>
         </tr>
         <tr>
             <td>M1</td>
             <td>GPIO</td>
-            <td>PC14</td>
+            <td>PA7</td>
         </tr>
         <tr>
             <td>RXD</td>
